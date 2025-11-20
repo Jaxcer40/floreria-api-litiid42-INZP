@@ -9,9 +9,9 @@ class Floreria {
       descripcion,
       logo,
       ubicacion,
-      /*telefono,
+      telefono,
       email,
-      horario,*/
+      horario,
       estatus = 'activo',
       id_ciudad,
       id_usuario
